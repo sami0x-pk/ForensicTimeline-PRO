@@ -1,0 +1,9 @@
+timestamp,source,event_type,severity,details
+2026-11-04 08:00:12,Windows-01,Successful Login,LOW,Normal user login
+2026-11-04 08:01:15,Firewall-01,Allowed Connection,LOW,HTTPS connection
+2026-11-04 08:05:10,Windows-01,Failed Login,MEDIUM,Invalid password
+2026-11-04 08:06:10,Windows-01,Failed Login,HIGH,Repeated login failure
+2026-11-04 08:07:10,Windows-01,Failed Login,HIGH,Repeated login failure
+2026-11-04 08:10:20,Web-Server,HTTP Request,LOW,GET request
+2026-11-04 08:12:30,Firewall-01,Blocked Connection,HIGH,Connection blocked
+2026-11-04 08:15:00,Windows-02,Privilege Change,CRITICAL,Unexpected admin privilege change

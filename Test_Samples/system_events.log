@@ -1,0 +1,5 @@
+2026-11-04 08:00:12 INFO User login successful
+2026-11-04 08:05:10 WARNING Failed login attempt
+2026-11-04 08:06:10 WARNING Repeated login failure
+2026-11-04 08:07:10 ERROR Multiple authentication failures
+2026-11-04 08:15:00 CRITICAL Unexpected privilege change

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<evidence_manifest>
+    <case_id>FT-TEST-001</case_id>
+    <investigator>Abdul Samad</investigator>
+    <evidence>
+        <item>system_events.log</item>
+        <item>login_records.csv</item>
+        <item>network_activity.json</item>
+        <item>incident_notes.txt</item>
+        <item>firewall_logs.csv</item>
+        <item>case_metadata.json</item>
+    </evidence>
+    <classification>Educational Sample</classification>
+</evidence_manifest>

@@ -1,0 +1,6 @@
+timestamp,source,event_type,severity,details
+2026-11-04 09:00:00,Firewall-01,Allowed Connection,LOW,HTTPS connection allowed
+2026-11-04 09:02:00,Firewall-01,Blocked Connection,HIGH,Connection blocked
+2026-11-04 09:04:00,Firewall-01,Allowed Connection,LOW,Normal web traffic
+2026-11-04 09:06:00,Firewall-02,Blocked Connection,MEDIUM,Policy restriction
+2026-11-04 09:08:00,Firewall-02,Blocked Connection,HIGH,Repeated blocked connection
