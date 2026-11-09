@@ -133,7 +133,7 @@ timestamp,source,event_type,severity,details
 ForensicTimeline PRO is developed as a **Data Structures and Algorithms (DSA) Final Project**. It demonstrates the practical application of sorting, searching, hashing, heaps and time-window analysis in a cybersecurity-related environment.
 
 **Project Presenter:** Abdul Samad  
-**Department:** Information Technology  
+**Department:** Cybersecurity
 **University:** Aror University of Art, Architecture, Design & Heritage, Sukkur
 
 ## ⚠️ Project Scope & Limitations
